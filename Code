@@ -34,7 +34,7 @@ void setup() {
   lcd.setCursor(0,0);
   lcd.print("Digital Measure ");
   lcd.setCursor(0,1);
-  lcd.print("By QuantumThread");
+  lcd.print("By Whoever");
   delay(2000);
 }
 
