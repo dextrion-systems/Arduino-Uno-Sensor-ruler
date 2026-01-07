@@ -11,3 +11,16 @@ Parts I used :
 	. Power
 	. Computer with Arduino IDE
 
+Pins:
+		
+		Sensor 
+		VCC == 5v
+		GND == GND
+		ECHO == D8
+		TRIGG == D9
+		
+		Display
+		VCC == 5v (Or what your display is rated for)
+		GND == GND
+		SDA == A4
+		SCL == A5
